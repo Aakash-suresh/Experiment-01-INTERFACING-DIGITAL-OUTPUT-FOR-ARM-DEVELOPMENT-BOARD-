@@ -303,9 +303,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ### CASE 1: ON
-![on](https://github.com/Nandhinijaya/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121998147/9f652341-794b-4d86-84bd-4c03813f4633)
+![on](IMG-20230818-WA0009.jpg)
 ### CASE 2: OFF
-![off](https://github.com/Nandhinijaya/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/121998147/af734fd0-3c7b-40f4-8f17-a49a062ddcbc)
+![off](IMG-20230818-WA0008.jpg)
 
  
  
